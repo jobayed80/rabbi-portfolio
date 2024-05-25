@@ -25,7 +25,7 @@ const Services = () => {
 
 
 
-        {/* section title */}
+        {/* section title part*/}
         <div className="flex flex-col items-center text-center mt-8 lg:-mt-2" data-aos="fade-up" data-aos-duration="2000">
           <div className='contactTitle uppercase font-extrabold font-sans text-6xl lg:text-9xl -z-10'>
             <h2>education</h2>

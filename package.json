@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/jobayed80/my_portfolio",
+  "homepage": "https://github.com/jobayed80/jobayed-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@emotion/react": "^11.10.6",

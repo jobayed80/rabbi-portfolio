@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jobayed80.github.io/my-personal-portfolio",
-  "name": "my-personal-portfolio",
+  "homepage": "https://github.com/jobayed80/my_portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -48,7 +48,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
+    "extends": [ 
       "react-app",
       "react-app/jest"
     ]

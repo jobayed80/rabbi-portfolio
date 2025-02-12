@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import myResume from '../assets/resume/CV.pdf'
+import myResume from '../assets/resume/CV_Updated.pdf'
 
 import { TypeAnimation } from 'react-type-animation';
 
